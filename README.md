@@ -1,2 +1,2 @@
 # 1st-project_BEST-MUSICALS-OF-ALL-TIME
-My first SQL/Power BI project :)
+This project demonstrates data analysis using SQL and Power BI. 
